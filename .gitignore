@@ -1,0 +1,14 @@
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# Maven wrapper
+.mvn/timing.properties
