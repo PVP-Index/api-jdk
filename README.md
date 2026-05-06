@@ -185,5 +185,5 @@ Tests use the JDK built-in `com.sun.net.httpserver.HttpServer` — no additional
 
 ## License
 
-Closed source — part of the PvPIndex monorepo. See [LICENSE](../../LICENSE).
+MIT — see [LICENSE](LICENSE).
 
